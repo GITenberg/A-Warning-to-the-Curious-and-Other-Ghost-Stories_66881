@@ -1,5 +1,8 @@
 _repo: A-Warning-to-the-Curious-and-Other-Ghost-Stories_66881
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66881-h/images/cover.jpg
 creator:
   author:
     agent_name: James, M. R. (Montague Rhodes)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2768
     wikipedia: https://en.wikipedia.org/wiki/M._R._James
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66881#A-Warning-to-the-Curious-and-Other-Ghost-Stories
 gutenberg_issued: '2021-12-04'
 identifiers:
   gutenberg: '66881'
